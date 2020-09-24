@@ -1,7 +1,7 @@
 # Atividade 1
 
 ##  Exercicio 1
-*Elabore um programa em Linux que crie um processo e execute um segundo programa.*
+*Elabore um programa em **Linux** que crie um processo e execute um segundo programa.*
 <details>
 
   <summary>a) Explique o código fonte utilizado</summary>
@@ -16,7 +16,7 @@
 </details>
 
 ## Exercicio 2 
-*Elabore um programa em Windows que crie um processo e execute um segundo programa.*
+*Elabore um programa em **Windows** que crie um processo e execute um segundo programa.*
 <details>
 
 <summary>a) Explique o código fonte utilizado </summary>
@@ -38,7 +38,7 @@
 </details>
 
 ## Exercicio 3
-*Elabore um programa em Java que crie um processo e execute um segundo programa.*
+*Elabore um programa em **Java** que crie um processo e execute um segundo programa.*
 <details>
   <summary>a) Explique o código fonte utilizado</summary>
 
@@ -48,7 +48,7 @@
   </details>
 
 ## Exercicio 4 
-*Elabore um programa em Python que crie um processo e execute um segundo programa.*
+*Elabore um programa em **Python** que crie um processo e execute um segundo programa.*
 <details>
 <summary>a) Explique o código fonte utilizado</summary>
    Através do módulo OS podemos utilizar o método fork(), que é utilizado para criar novos processos. Para verificar o PID ( Process Id) utilizamos o método getpid(), também da lib OS.
