@@ -41,7 +41,7 @@
 *Elabore um programa em **Java** que crie um processo e execute um segundo programa.*
 <details>
   <summary>a) Explique o código fonte utilizado</summary>
-
+i.	O método Main da Classe OSProcess irá criar um processo através do construtor do ProcessBuilder e executá-lo com o método start(), inicializando o processo na memória. 
 </details>
 <details>
   <summary>b) Descreva os resultados obtidos</summary>
