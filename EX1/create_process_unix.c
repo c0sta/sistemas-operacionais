@@ -10,7 +10,7 @@ int main () {
 
     // Exception Handler
     if (pid < 0) {
-        printf(stderr, "Fork falhou");
+        printf("Fork falhou");
         exit(-1);
     }
     // Processo filho
@@ -20,8 +20,8 @@ int main () {
     }
     // Processo Pai
     else {
-        wait(NULL);
+        // wait(NULL);
         printf("\n Processo Pai: %d \n", pid);
-        exit(0)
+        exit(0);
     }
 }
